@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return r}));var u=t("q1tI"),o=t.n(u);function r(){return o.a.createElement("div",null,o.a.createElement("h1",null,"Trumping the Movement!"),o.a.createElement("div",null,"Coming Soon..."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-302f9ad6ecd29c7fefba.js.map
