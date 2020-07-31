@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return l}));var i=t("q1tI"),a=t.n(i);function l(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Trumping the Movement!"),a.a.createElement("div",null,"Coming Soon...Just like a National Plan for handling the Covid Crisis!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-205e544915e1549c6389.js.map
